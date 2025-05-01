@@ -1,6 +1,6 @@
-#Credit Card Fraud Detection Using Machine Learning
+Credit Card Fraud Detection Using Machine Learning
 
-##Skillset & Technologies Used
+Skillset & Technologies Used
 
 **Languages & Libraries**:  
 Python, Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, imbalanced-learn (SMOTE), joblib  
