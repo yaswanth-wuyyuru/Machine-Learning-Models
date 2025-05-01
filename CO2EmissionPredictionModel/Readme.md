@@ -1,6 +1,6 @@
-# 🚗 CO₂ Emissions Prediction Using Simple Linear Regression
+CO₂ Emissions Prediction Using Simple Linear Regression
 
-## 🧠 Skillset & Technologies Used
+Skillset & Technologies Used
 
 **Languages & Libraries**:  
 Python, Pandas, NumPy, Matplotlib, PyPlot, scikit-learn (sklearn)  
@@ -17,13 +17,13 @@ Exploratory Data Analysis (EDA), Data Cleaning, Data Visualization, Linear Regre
 
 ---
 
-## 📊 Business Context
+Business Context
 
 Government agencies and automobile manufacturers need tools to **monitor and reduce CO₂ emissions** to meet climate and regulatory goals. By analyzing how vehicle characteristics (e.g., engine size, fuel consumption) relate to emissions, organizations can **optimize engine designs** and promote fuel-efficient vehicles.
 
 ---
 
-## 📁 Dataset Overview
+Dataset Overview
 
 **Dataset**: `FuelConsumptionCo2.csv`  
 **Description**: Contains data on fuel consumption and CO₂ emissions for multiple vehicles.  
@@ -44,7 +44,7 @@ Government agencies and automobile manufacturers need tools to **monitor and red
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+Exploratory Data Analysis (EDA)
 
 - Checked for **missing/null values** and ensured data cleanliness.
 - Performed **summary statistics** on numerical features.
@@ -52,7 +52,7 @@ Government agencies and automobile manufacturers need tools to **monitor and red
 
 ---
 
-## 📈 Visual Insights
+Visual Insights
 
 1. **Engine Size vs CO₂ Emissions**  
    - Strong positive linear relationship.
@@ -69,23 +69,23 @@ Government agencies and automobile manufacturers need tools to **monitor and red
 
 ---
 
-## 🤖 Machine Learning Model
+Machine Learning Model
 
-### Model Used:  
+Model Used:  
 **Simple Linear Regression** with `Engine Size` as the independent variable and `CO2 Emissions` as the dependent variable.
 
-### Data Split:  
+Data Split:  
 - Training: 80%  
 - Testing: 20%
 
-### Evaluation Metrics:
+Evaluation Metrics:
 - **Mean Absolute Error (MAE)**: 22.63
 - **Mean Squared Error (MSE)**: 854.93
 - **R² Score**: 0.79 (Good fit)
 
 ---
 
-## 💡 Key Insights
+Key Insights
 
 - **Engine Size is a reliable predictor** of CO₂ emissions.
 - Fuel-efficient designs (lower engine size and consumption) **substantially reduce emissions**.
@@ -93,7 +93,7 @@ Government agencies and automobile manufacturers need tools to **monitor and red
 
 ---
 
-## ✅ Recommendations
+Recommendations
 
 - **Policy Makers**: Enforce stricter emission caps on high-engine vehicles.
 - **Auto Manufacturers**: Invest in smaller or hybrid engines to meet sustainability goals.
@@ -101,7 +101,7 @@ Government agencies and automobile manufacturers need tools to **monitor and red
 
 ---
 
-## 📦 Future Improvements
+Future Improvements
 
 - Integrate additional features like `Vehicle Weight`, `Drive Type` for better accuracy.
 - Try **Multivariable Regression** to incorporate multiple predictors.
@@ -109,9 +109,9 @@ Government agencies and automobile manufacturers need tools to **monitor and red
 
 ---
 
-## 📬 Contact
+Contact
 
-For queries or suggestions, please reach out at [ywuyyuru7@gmail.com]
+For queries or suggestions, please reach out at [yaswanth.wuyyuru@hotmail.com]
 
 ---
 
